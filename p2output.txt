@@ -1,1 +1,24 @@
-
+ gcc -g p2original.c
+ ./a.out
+Enter Numerator and Denominator of the fraction
+2
+5
+Enter Numerator and Denominator of the fraction
+3
+4
+Enter Numerator and Denominator of the fraction
+7
+8
+2/5 is the smallest fraction of all 
+ gcc -g p2original.c
+ ./a.out
+Enter Numerator and Denominator of the fraction
+1
+4
+Enter Numerator and Denominator of the fraction
+1
+2
+Enter Numerator and Denominator of the fraction
+2
+1
+1/4 is the smallest fraction of all 

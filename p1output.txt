@@ -1,1 +1,18 @@
-
+ gcc -g p1original.c
+ ./a.out
+Enter Numerator and Denominator of 1st fraction
+1
+4
+Enter Numerator and Denominator of 2nd fraction
+1
+2
+1/4 + 1/2 = 3/4
+ gcc -g p1original.c
+ ./a.out
+Enter Numerator and Denominator of 1st fraction
+1
+5
+Enter Numerator and Denominator of 2nd fraction
+1
+25
+1/5 + 1/25 = 6/25
